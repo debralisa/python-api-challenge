@@ -6,6 +6,8 @@ All input, output and code files:
     * 4 figure .png (Fig1.png, Fig2.png, Fig3.png, Fig4.png) output files in the Output folder
     * VacationPy.ipynb - code (Jupyter Notebook with Python code)
     * .gitignore file to hide files from public view and possible api key access
+    
+##Had lots of issues trying to successfully commit/push files from local repo to GitHub main repo.  Mainly, I was trying upload all files directly in main repo from computer preventing the .gitignore from igoring adding api_key.py file.  Rectified with AskBCS assistance.  Removed all files (other than output folder and .gitignore) from main repo and performed add/commit/push from VSCode from local repo.  SUCCESS 
 
 
 Project Requirements:
